@@ -15,21 +15,24 @@ MEmber 2 https://github.com/Unknown-Geek
 An intelligent library assistance chatbot implemented in Telegram app. It allows the user to send the topic they wish to look for , the chatbot then provides all the books containing the topic along with their shelf number and row number.
 
 ## Features 
-1. 
+1. Easy sccessiblility of the book
+2. Saves the time required for searching it up
+3. Scalable to other colleges and libraries
+4. Access to the basic details of all the books
 
 ## Link to product walkthrough
-[link to video](Link Here)
+[link to video](https://drive.google.com/drive/folders/1YYXP48GhehCnFogx3v0lOmRW6LhGSpH9?usp=sharing)
 
    
 ## Libraries used
-Library Name - Version
+Python - logging, os, dotenv, streamlit, pathlib, textwrap, google.generativeai, telegram.ext
 
 
 ## How to configure
 Instructions for setting up project
 
 ## How to Run
-Instructions for running
+CLone the repository and run it on VSCode.
 
 ## How to contribute ? 
-Features to implement 
+Fork the repo and add your part.
