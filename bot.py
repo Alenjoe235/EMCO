@@ -30,7 +30,14 @@ for book in book_data:
     result = books.insert_one(book)
    # print('One book: {0}'.format(result.inserted_id))
 
+topic = "stress"
 # Print all books in the 'books' collection
 content = []
+result =[]
 for book in books.find():
-    content.append(book)
+    for i in book["Contents"]:
+        if i.lower() == topic.lower():
+            result.append([book["Book_Name"],book["Shelf_No"],book["Row_No"]])
+
+print(result)
+
