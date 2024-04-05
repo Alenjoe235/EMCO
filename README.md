@@ -4,15 +4,15 @@
 
 
 ## Team Name
-Name  
+EMCO
 
 # Team Member
-Member 1 Github Link
+Member 1 https://github.com/Alenjoe235
 
-MEmber 2 Github Link
+MEmber 2 https://github.com/Unknown-Geek
 
-## Idea
-Breif Idea in two three sentences 
+##Idea
+An intelligent library assistance chatbot implemented in Telegram app. It allows the user to send the topic they wish to look for , the chatbot then provides all the books containing the topic along with their shelf number and row number.
 
 ## Features 
 1. 
