@@ -31,5 +31,6 @@ for book in book_data:
    # print('One book: {0}'.format(result.inserted_id))
 
 # Print all books in the 'books' collection
+content = []
 for book in books.find():
-    print(book)
+    content.append(book)
