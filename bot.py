@@ -1,7 +1,7 @@
 import telegram.ext
 
 # Replace with your actual Telegram bot API token
-TOKEN = "<YOUR_BOT_TOKEN>"
+TOKEN = "6890524405:AAENCT_18v9a6H7J4gid5V6o2KFyAv0Pgjw"
 
 def handle_message(update, context):
     """Responds to incoming messages."""
@@ -20,5 +20,5 @@ def main():
     updater.start_polling()
     updater.idle()
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     main()
