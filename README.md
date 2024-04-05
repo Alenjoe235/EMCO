@@ -4,16 +4,16 @@
 
 
 ## Team Name
-Name  
+EMCO
+ 
 
 # Team Member
-Member 1 Github Link
 
-MEmber 2 Github Link
+https://github.com/Alenjoe235
+https://github.com/Unknown-Geek
 
 ## Idea
-Breif Idea in two three sentences 
-
+We are creating a chatbot for  the college ,especially for functions like to know the availability of the books in the library ,location in the library.
 ## Features 
 1. 
 
